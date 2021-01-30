@@ -6,3 +6,5 @@ flask-mongoengine==0.9.5
 gunicorn==19.9.0
 python-cas==1.4.0
 requests==2.22.0
+mongomock==3.21.0
+pytest==6.1.2
