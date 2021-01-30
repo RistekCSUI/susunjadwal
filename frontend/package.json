@@ -19,6 +19,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.0.1",
     "redux": "^4.0.4",
+    "redux-persist": "^6.0.0",
     "styled-components": "^4.3.2"
   },
   "scripts": {
