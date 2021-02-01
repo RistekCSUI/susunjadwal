@@ -147,4 +147,7 @@ dmypy.json
 # Ignore all local history of files
 .history
 
+### Pycharm ###
+.idea
+
 # End of https://www.gitignore.io/api/flask,visualstudiocode
